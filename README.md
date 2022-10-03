@@ -1,6 +1,26 @@
 # NovetusFE-WS
 NovetusFE Workshop Store
 
+# Example
+store.json
+[code]
+       {
+				"shortname":"CharCommands",
+				"longname":"Character Commands",
+				"description":"Robloxian 2.0 Addon for Novetus",
+				"creator":"Lachrymogenic",
+				"tags":["addons"],
+				"url":"https://github.com/Lachrymogenic/CharacterCommands/archive/refs/heads/main.zip",
+				"iconurl":"https://raw.githubusercontent.com/Lachrymogenic/CharacterCommands/main/charcustom.png",
+				"indexlocation":"CharacterCommands-main/index.txt",
+				"leaveout":true,
+			},
+[/code]      
+index.txt
+[code]
+CharacterCommands-main/addons/CharacterCommands.lua
+[/code]
+
 # How to add your Project / Mod to the Workshop?
 First, create an index.txt file for your mod / project, this file will contain a list of every file you wish to be extracted from within a zip file. For an example of how to create an index.txt, see my example project here, https://github.com/Lachrymogenic/CharacterCommands The format is usually "modname-main/(addons / models / sounds / whatever)/(if you have extra folders: folder-name / )your-file Make a commit to store.json and make sure you format it correctly, do not forget commas etc.
 
