@@ -4,17 +4,17 @@ NovetusFE Workshop Store
 # Example
 store.json
 ```
-       {
-				"shortname":"CharCommands",
-				"longname":"Character Commands",
-				"description":"Robloxian 2.0 Addon for Novetus",
-				"creator":"Lachrymogenic",
-				"tags":["addons"],
-				"url":"https://github.com/Lachrymogenic/CharacterCommands/archive/refs/heads/main.zip",
-				"iconurl":"https://raw.githubusercontent.com/Lachrymogenic/CharacterCommands/main/charcustom.png",
-				"indexlocation":"CharacterCommands-main/index.txt",
-				"leaveout":true,
-			},
+{
+	"shortname":"CharCommands",
+	"longname":"Character Commands",
+	"description":"Robloxian 2.0 Addon for Novetus",
+	"creator":"Lachrymogenic",
+	"tags":["addons"],
+	"url":"https://github.com/Lachrymogenic/CharacterCommands/archive/refs/heads/main.zip",
+	"iconurl":"https://raw.githubusercontent.com/Lachrymogenic/CharacterCommands/main/charcustom.png",
+	"indexlocation":"CharacterCommands-main/index.txt",
+	"leaveout":true,
+},
 ```    
 index.txt
 ```
