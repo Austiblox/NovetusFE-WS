@@ -1,6 +1,9 @@
 # NovetusFE-WS
 NovetusFE Workshop Store
 
+# Rules
+Since Novetus is quite a small community I doubt that a huge number of commits is going to happen, so we should be fine for now. However, I still have rules, No malware, no attempts at griefing, no nsfw or lewd addon icons. If you break one of these rules I will not add your project or mod to the workshop and if you get a project added but break rules after then I will remove your project from the workshop and never add it back.
+
 # Example
 store.json
 ```
