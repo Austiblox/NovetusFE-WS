@@ -1,0 +1,16 @@
+{
+	"Data":
+		[
+			{
+				"shortname":"CharCommands",
+				"longname":"Character Commands",
+				"description":"Robloxian 2.0 Addon for Novetus",
+				"creator":"Lachrymogenic",
+				"tags":["addons"],
+				"url":"https://github.com/Lachrymogenic/CharacterCommands/archive/refs/heads/main.zip",
+				"icon-url":"https://raw.githubusercontent.com/Lachrymogenic/CharacterCommands/main/charcustom.png",
+				"leave-out":true
+			},
+      
+		]
+	}
