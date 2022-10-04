@@ -9,7 +9,6 @@
 				"tags":["addons"],
 				"url":"https://github.com/Lachrymogenic/CharacterCommands/archive/refs/heads/main.zip",
 				"iconurl":"https://raw.githubusercontent.com/Lachrymogenic/CharacterCommands/main/charcustom.png",
-				"indexlocation":"CharacterCommands-main/index.txt",
 				"leaveout":true,
 				
 			},
@@ -21,7 +20,6 @@
 				"tags":["SharedData"],
 				"url":"https://github.com/Ae1oURed/Red-sGunMeshes/archive/refs/heads/main.zip",
 				"iconurl":"https://raw.githubusercontent.com/Ae1oURed/Red-sGunMeshes/main/Icon.png",
-				"indexlocation":"Red-sGunMeshes-main/index.txt",
 				"leaveout":true,
 				
 			},
