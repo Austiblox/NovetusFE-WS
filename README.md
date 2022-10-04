@@ -19,13 +19,7 @@ store.json
 	"leaveout":true,
 },
 ```    
-index.txt
-```
-CharacterCommands-main/addons/CharacterCommands.lua
-```
-
 # How to add your Project / Mod to the Workshop?
-![](https://raw.githubusercontent.com/Lachrymogenic/NovetusFE-WS/main/example.gif)
 See the legend for the list of JSON keys and what they do.
 
 # Legend
