@@ -1,10 +1,10 @@
 {
-  "shortname":"RedGunMesh",
+  	"shortname":"RedGunMesh",
 	"longname":"Red's Gun Meshes and sounds",
 	"description":"A simple shareddata pack of several weapons and sunds.",
 	"creator":"Ae1oURed",
 	"tags":["SharedData"],
 	"url":"https://github.com/Ae1oURed/Red-sGunMeshes/archive/refs/heads/main.zip",
 	"iconurl":"https://raw.githubusercontent.com/Ae1oURed/Red-sGunMeshes/main/Icon.png",
-	"leaveout":true,			
-},
+	"leaveout":true		
+}
