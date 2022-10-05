@@ -1,0 +1,10 @@
+{
+	"shortname":"CHCmod",
+	"longname":"Certified Hood Classic Mod",
+	"description":"A music mod for novetus",
+	"creator":"Ae1oURed",
+	"tags":["Shareddata"],
+	"url":"https://github.com/Ae1oURed/CHCMOD/archive/refs/heads/main.zip",
+	"iconurl":"https://raw.githubusercontent.com/Ae1oURed/CHCMOD/main/CHCmodIcon.png",
+	"leaveout":true,
+},
