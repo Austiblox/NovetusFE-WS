@@ -15,9 +15,8 @@ store.json
 	"tags":["addons"],
 	"url":"https://github.com/Lachrymogenic/CharacterCommands/archive/refs/heads/main.zip",
 	"iconurl":"https://raw.githubusercontent.com/Lachrymogenic/CharacterCommands/main/charcustom.png",
-	"indexlocation":"CharacterCommands-main/index.txt",
-	"leaveout":true,
-},
+	"leaveout":true
+}
 ```    
 # How to add your Project / Mod to the Workshop?
 See the legend for the list of JSON keys and what they do.
